@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Personality</td>
-    <td>Generally a perfectionist; I like things to be high-quality.</td>		
+    <td>Generally a perfectionist; I like things to be high quality.</td>		
   </tr>
   <tr>
     <td>Work History</td>
